@@ -15,7 +15,8 @@ Réaliser un audit de sécurité complet d'une application Android vulnérable (
 
 Organisation du répertoire de travail avec les dossiers nécessaires à l'audit.
 
-<!-- 📸 IMAGE 1 : Structure des dossiers / environnement préparé -->
+<img width="334" height="677" alt="image" src="https://github.com/user-attachments/assets/6cecfb36-6494-4871-ad10-4163f656cce1" />
+
 
 ---
 
@@ -41,7 +42,8 @@ Get-FileHash "InsecureBankv2.apk" -Algorithm SHA256
 
 > **Hash obtenu :** *(voir capture ci-dessous)*
 
-<!-- 📸 IMAGE 2 : Résultat du hash SHA-256 -->
+<img width="1704" height="770" alt="image" src="https://github.com/user-attachments/assets/99b20bf8-f114-4098-8176-083a664220ed" />
+
 
 ---
 
@@ -80,7 +82,8 @@ Target   : 22
 
 Consolidation des résultats des deux outils, suppression des doublons et association aux référentiels OWASP Mobile Top 10.
 
-<!-- 📸 IMAGE 3 : Tableau de triage / classification OWASP -->
+<img width="1734" height="910" alt="image" src="https://github.com/user-attachments/assets/9b2aad23-397a-4eb2-b041-3dc4a9dc8460" />
+
 
 ---
 
